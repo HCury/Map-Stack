@@ -1,0 +1,53 @@
+{
+    "MapStackLocationsArray": [
+        {
+            "name": "CVS",
+            "latitude": 25.771171,
+            "longitude": -80.191777,
+            "distance": 20495,
+            "image"   : "CVS"
+        },
+        {
+            "name": "McDonalds",
+            "latitude": 25.777976,
+            "longitude": -80.19013,
+            "distance": 20195,
+            "image"   : "McDonalds"
+        },
+        {
+            "name": "Freedom Tower",
+            "latitude": 25.780273,
+            "longitude": -80.189669,
+            "distance": 10495,
+            "image"   : "FreedomTower"
+        },
+        {
+            "name": "MDC Bookstore",
+            "latitude": 25.778048,
+            "longitude": -80.191291,
+            "distance": 26434,
+            "image"   : "MDCBookStore"
+        },
+        {
+            "name": "Bubba Gump Shrimp Co",
+            "latitude": 25.777355,
+            "longitude": -80.185572,
+            "distance": 28409,
+            "image"   : "BGSC"
+        },
+        {
+            "name": "Ticketmaster",
+            "latitude": 25.770934,
+            "longitude": -80.190911,
+            "distance": 19395,
+            "image"   : "Ticketmaster"
+        },
+        {
+            "name": "Bijan",
+            "latitude": 25.771022,
+            "longitude": -80.192072,
+            "distance": 20771,
+            "image"   : "Bijan"
+        }
+    ]
+}
